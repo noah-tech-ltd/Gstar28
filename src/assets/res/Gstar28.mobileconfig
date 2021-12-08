@@ -958,15 +958,17 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>未命名</string>
+	<string>Gstar28</string>
 	<key>PayloadIdentifier</key>
 	<string>wengshengkaideMacBook-Pro.BAE25060-8FA8-483A-8B4D-3343097BE78F</string>
+	<key>PayloadOrganization</key>
+	<string>Gstar28</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>005CD37F-A309-4F04-95ED-A32333039EAF</string>
+	<string>47FEAF23-2F00-4785-A3F6-E4F0253FC3A5</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
