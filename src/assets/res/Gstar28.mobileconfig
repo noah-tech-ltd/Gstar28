@@ -934,7 +934,7 @@
 			YII=
 			</data>
 			<key>IgnoreManifestScope</key>
-			<true/>
+			<false/>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
@@ -944,11 +944,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.8A4AF370-6723-42EE-A915-BB77CAE0ADA5</string>
+			<string>com.apple.webClip.managed.36A1CA44-0349-4C1C-B1E5-887B3C6993D9</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>8A4AF370-6723-42EE-A915-BB77CAE0ADA5</string>
+			<string>36A1CA44-0349-4C1C-B1E5-887B3C6993D9</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -968,7 +968,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>47FEAF23-2F00-4785-A3F6-E4F0253FC3A5</string>
+	<string>9CA73420-3E7A-4EAB-B613-7702E0D56231</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
